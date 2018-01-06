@@ -1,0 +1,3 @@
+# pratos_doc
+
+ONLY IMAGES FOR PRATOS WIKI
